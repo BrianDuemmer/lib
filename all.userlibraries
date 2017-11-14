@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="commons-logging" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/lib/commons-logging-1.2/commons-logging-1.2-javadoc.jar!/" path="C:/lib/commons-logging-1.2/commons-logging-1.2.jar" source="C:/lib/commons-logging-1.2/src"/>
+    </library>
+    <library name="gson" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/lib/gson-2.6.2/gson-2.6.2-javadoc.jar!/" path="C:/lib/gson-2.6.2/gson-2.6.2.jar" source="C:/lib/gson-2.6.2/gson-2.6.2-sources.jar"/>
+    </library>
+    <library name="jaudiotagger" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/lib/jaudiotagger/jaudiotagger-2.2.3-javadoc.jar!/" path="C:/lib/jaudiotagger/jaudiotagger-2.2.3.jar" source="C:/lib/jaudiotagger/jaudiotagger-2.2.3-sources.jar"/>
+    </library>
+    <library name="jid3lib" systemlibrary="false">
+        <archive path="C:/lib/jid3lib-0.5.4/jid3lib-0.5.4.jar" source="C:/lib/jid3lib-0.5.4/src"/>
+    </library>
+    <library name="Log4j" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/lib/apache-log4j-2.9.1-bin/log4j-api-2.9.1-javadoc.jar!/" path="C:/lib/apache-log4j-2.9.1-bin/log4j-api-2.9.1.jar" source="C:/lib/apache-log4j-2.9.1-bin/log4j-api-2.9.1-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/apache-log4j-2.9.1-bin/log4j-core-2.9.1-javadoc.jar!/" path="C:/lib/apache-log4j-2.9.1-bin/log4j-core-2.9.1.jar" source="C:/lib/apache-log4j-2.9.1-bin/log4j-core-2.9.1-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/apache-log4j-2.9.1-bin/log4j-jcl-2.9.1-javadoc.jar!/" path="C:/lib/apache-log4j-2.9.1-bin/log4j-jcl-2.9.1.jar" source="C:/lib/apache-log4j-2.9.1-bin/log4j-jcl-2.9.1-sources.jar"/>
+    </library>
+    <library name="mp3spi" systemlibrary="false">
+        <archive javadoc="file:/C:/lib/MpegAudioSPI1.9.5/doc/" path="C:/lib/MpegAudioSPI1.9.5/mp3spi1.9.5.jar" source="C:/lib/MpegAudioSPI1.9.5/src"/>
+        <archive path="C:/lib/tritonus_share-0.3.6.jar"/>
+        <archive javadoc="file:/C:/lib/JLayer1.0.1/doc/" path="C:/lib/JLayer1.0.1/jl1.0.1.jar" source="C:/lib/JLayer1.0.1/src"/>
+    </library>
+    <library name="mysql-jdbc" systemlibrary="false">
+        <archive path="C:/lib/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar" source="C:/lib/mysql-connector-java-5.1.44/src"/>
+    </library>
+    <library name="nanohttpd" systemlibrary="false">
+        <archive path="C:/lib/nanohttpd-2.3.1/nanohttpd-webserver-2.1.1.jar" source="C:/lib/nanohttpd-2.3.1/src"/>
+    </library>
+    <library name="spring" systemlibrary="false">
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-aop-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-aop-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-aop-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-aspects-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-aspects-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-aspects-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-beans-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-beans-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-beans-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-indexer-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-indexer-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-indexer-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-support-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-support-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-context-support-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-core-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-core-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-core-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-expression-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-expression-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-expression-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-instrument-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-instrument-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-instrument-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jcl-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jcl-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jcl-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jdbc-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jdbc-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jdbc-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jms-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jms-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-jms-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-messaging-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-messaging-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-messaging-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-orm-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-orm-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-orm-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-oxm-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-oxm-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-oxm-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-test-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-test-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-test-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-tx-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-tx-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-tx-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-web-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-web-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-web-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-webflux-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-webflux-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-webflux-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-webmvc-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-webmvc-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-webmvc-5.0.1.RELEASE-sources.jar"/>
+        <archive javadoc="jar:file:/C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-websocket-5.0.1.RELEASE-javadoc.jar!/" path="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-websocket-5.0.1.RELEASE.jar" source="C:/lib/spring-framework-5.0.1.RELEASE/libs/spring-websocket-5.0.1.RELEASE-sources.jar"/>
+    </library>
+    <library name="sqlite-jdbc" systemlibrary="false">
+        <archive path="C:/lib/sqlite-jdbc-3.20.0.jar"/>
+    </library>
+    <library name="youtube_core" systemlibrary="false">
+        <archive path="C:/lib/youtube/libs/google-api-client-1.23.0.jar" source="C:/lib/youtube/libs-sources/google-api-client-1.23.0-sources.jar"/>
+        <archive path="C:/lib/youtube/libs/google-oauth-client-1.23.0.jar" source="C:/lib/youtube/libs-sources/google-oauth-client-1.23.0-sources.jar"/>
+        <archive path="C:/lib/youtube/libs/google-http-client-1.23.0.jar" source="C:/lib/youtube/libs-sources/google-http-client-1.23.0-sources.jar"/>
+        <archive path="C:/lib/youtube/libs/google-http-client-gson-1.23.0.jar" source="C:/lib/youtube/libs-sources/google-http-client-gson-1.23.0-sources.jar"/>
+    </library>
+</eclipse-userlibraries>
